@@ -41,7 +41,7 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ### 3. Understanding the Basics
 **In your own words, what is Data Science?**
 ```
-[Write your answer here - try to explain it as if you were teaching someone]
+[Data Science involves the basis of Data Analysis and it also predict the future with problem question,]
 ```
 
 **Name 3 real-world applications of Data Science:**
@@ -54,17 +54,17 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ### 4. Learning Style & Challenges
 **How do you learn best? (e.g., visual tutorials, hands-on practice, reading documentation, pair programming)**
 ```
-[Write your answer here]
+[Hands-on-pratice]
 ```
 
 **What are you most nervous or uncertain about?**
 ```
-[Write your answer here]
+[how to get the machine language, it looks like a lot]
 ```
 
 **How will you overcome this challenge?**
 ```
-[Write your answer here]
+[constant pratice]
 ```
 
 ---

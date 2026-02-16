@@ -23,17 +23,17 @@ Answer the following questions thoughtfully. These reflections help you ground y
 ### 2. Motivation & Goals
 **Why did you choose to pursue a Data Science internship?**
 ```
-[Write your answer here]
+[I chose to pursue a Data Science internship because I am  passionate about using data to solve real business problems. With my background in data analysis, I want to strengthen my skills in machine learning and advanced analytics while gaining hands on experience on real world projects.]
 ```
 
 **What do you hope to achieve by the end of this 8-week program?**
 ```
-[Write your answer here]
+[I hope to strengthen my practical skills in data analysis,work on real world projects and also improve my problem solving abilities and build a strong project portfolio]
 ```
 
 **What area of data science interests you most? (e.g., Machine Learning, Analytics, NLP, Computer Vision)**
 ```
-[Write your answer here]
+[Analytics]
 ```
 
 ---

@@ -15,7 +15,7 @@ Answer the following questions thoughtfully. These reflections help you ground y
 
 **Have you worked with data before? If so, in what context?**
 ```
-[Write your answer here]
+[YES i have, Primarily in finance-context]
 ```
 
 ---
